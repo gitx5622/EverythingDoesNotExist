@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#000"
+            android:lineSpacingExtra="10dp"
+            android:scrollbars = "vertical"
+            android:text="\n\ CHAPTER 2: \n\ \n\
+
+THIS IS WHAT HAPPENS FOR TWO ''FAMILIES'' SEPARATED BY A TALL  FENCE. IT'S NOT A BOUNDARY. JUST CALL IT A FENCE SURROUNDING THE 'RICH' MAN'S LAND. THE POOR OLD MAN CAN SEE THE VAST LAND TO THE HORIZON.  HE IS SITTED OUTSIDE. IT'S SUNSET. HE LOOKS OLDER THAN HE IS. HE'S WAITING TO SEE HIS SON RETURN. WHY?
+\n\ \n\
+26. We're in the rich man's nicely-furnished mansion (taking some well preserved juice)....
+\n\ \n\
+27.The brilliant, smart, intelligent, young, genius... scientist says this to his  'father'; let's use AI to make work easier.
+\n\ \n\
+28.You have known that much? I thought you would enjoy life there like I did son.
+\n\ \n\
+29. Are you worried? Why fear 'dad'?
+\n\ \n\
+30.Am not worried son, I am happy you know much now.
+\n\ \n\
+31.Father I thought you would have peace... at the end?
+\n\ \n\
+32.I should be happy because God will save our family. I mean; you talked something about AI. Is it related to something I saw on TV that will save humanity from been wiped out of the Earth's surface by some calamities one after the other?
+\n\ \n\
+33.You've not answered my question father but it's that which is the most earning job today. Maybe you'll have peace in the next universe. We wonder if we'll finish the work before Earth become like 'Mars'. Maybe aliens can help us if we discover where they have hidden the information for billions of years. They thought we would be stupid to destroy ourselves with it.
+\n\ \n\
+34.Son... the earth was not there that long.... Just take a few people to that universe I heard; don't forget us your family. We can always multiply. God is merciful. He is a good leader. You see how he multiplied those sojourners in the holy book to even us....
+\n\ \n\
+35.Father you used to tell me that God wants us to love our neighbors as we love ourselves or more...when we first came here with mom. If you have one bread you share. Even our first teacher taught us all types of prayers. God becomes happy when we share and adds us more....
+\n\ \n\
+36. Times have changed son. Everyone has their own battle to fight. Everyone has their cross. God is not coming soon as he had promised. How sooner is soon. I was a boy when we were told about him but has now become a gentleman. Maybe he doesn't have a watch. I guess he died on the way home or did not want human beings to enjoy life. Nothing to fear. Has the sun ever stopped rising because we don't remember him? We don't even know what is infinity. A word to separate heroes and cowards. Slow learners and great thinkers of all times.
+\n\ \n\
+37.That's what our physics teacher told us father. It's like you were there.  We'll keep working day and night to make super rockets and completing some equations some higher men left us. Our teacher also said that others have been working on the wonders of the world to see whether there was assistance by aliens. If they find scrolls like those by ancient philosophers which have left 'scholars' confused you can guess.... What disturbs is whether there is anyone who can understand their language. We are advanced.
+\n\ \n\
+38.Did the books contain information about the god who lowered a man and a woman from a certain Hill? And the time when?
+\n\ \n\
+39.No. They don't have such stupid stuff. Those were stories to keep unlearned people moral. You know they could follow anything....
+\n\ \n\
+40.Do you know the writers of the earlier days used their time to think about what to write? Some even took decades. They are not like the lazy artists of these days who steal other people's work, doctor it and put their name on it. The worst thing is that they steal whatever is toxic. We can't blame them. The fault is their fathers'. (How did he know it was not new? We should ask him). Like the writers of these.... It looks like you heard about that god.
+\n\ \n\
+41.Yes, that we did earlier here in that poor school where my sister goes. We were told to forget about that myth. The religious teacher said that is a myth.  Some hooligans formulated it for those who don't know God. But it's only a matter of time we know the truth. We are also working on a time machine. I can always visit you with your father whom you tell us stories about. Play with you, dance, don't forget some wine and finally travel back in time. Even to see those mammoths and dinosaurs told in myths as we visit the god.
+\n\ \n\
+42.Go call your mom lest we leave her here with those spoiled ghetto servants when the making of super rockets is done. She must be in the dining room with the stupid uneducated girl you used to love before you were educated. I think we can always get good angels of your class where you studied. There people are not stupid. They don't barter-trade for wives. They don't follow ways of sons of the dark. You just give a good sum of money for a wife. Not those many boring evitable ceremonies of our fathers.  They should have been educated. Those ghetto guys should be educated...no, we'll just keep making money out of them before we leave the earth.
+\n\ \n\
+43.Dad I remember something.... You see the 'only' son of the stupid neighbor.... I left him at school to ride back home. That's even a privilege. He was given money for that there. He has been there all those years. They can't even remember him.    How could his father not afford only two and five dollars to pay for his way back home in minutes after all those years. If it were me... I would not have come back.
+\n\ \n\
+44.Don't compare yourself with him. You are much clever. He should have attached himself to one of the angels of the land.... But how? Maybe they also noticed the stupidity in him. He can't even afford a smartphone. The teachers were right. We should eliminate the stupid humans and replace them with robots. It is just a matter of time. We'll have smarter devices that will outsmart them. How can they afford to pollute the beautiful land with those malnutritioned  bodies. Go call my dear first....
+\n\ \n\
+45.Darling we were talking about the stupid neighbors that keep fantasizing. They talk of their Almighty God. They think we don't know him. The priests keep coming here to talk about him... they perform miracles and we give them good riches. We have kept working to see him. Maybe they have his DNA. He must be stupid like them. Even science taught us that anything that can't be quantified does not exist. How could he make matter when he is not. I don't believe in ghosts and demons.
+\n\ \n\
+46.That's why I adore you. You are not like the stupid first lover I met. He just wasted my time. To this moment he doesn't even own a house don't talk about the fleet of cars we have. We'll soon take his land if we need to build a better mansion. You know how to tame a wife. The only thing good from him is my baby boy. You know they think quoting the wise man in their boring holy book they will get what he had. They don't like saying he had many wives. They know that even winning one is a problem. You need money not some money. Money is never enough. They talk of faith. Even our dog has faith it will eat better than them today, tomorrow and its young ones forever as ours. You need good money to have peace. It will give you anything you want among the trillions  wishes I think all have.... We should help them sometimes. Son, please leave us for some time.
+\n\ \n\
+47.Mom, dad...I forgot to tell you that in the land there was a teacher who talked about a weird topic. He was  stupid like our neighbours. The information he had seemed borrowed. Maybe he found some scrolls from the aliens. He is the one who paid the fare I told you - for the only son of the stupid neighbor. It was related to the resurrection. By the way, how did he get the money to go there. His tuition was paid by the government.... He could not even be ashamed learning a new language.
+\n\ \n\
+48. Wait... who will employ him. Not in our companies. But we can always be human and make him our accountant...no, we have the machines. Maybe he can be preparing our garden before scientists make better robots. I'll give you time... let me see whether my lovely sister has come from that school. You know these poor schools in our land teach till late. What they teach God knows.... At the end all children cometh from God.
+\n\ \n\
+49.You see what a great son we have my wife. He is a man. He is not a weakling like those stupid guys out there. They think we are demigods or even gods. Before they know, we'll have inhabited a new universe. I think he told you about it when you were coming from the dining room. You know you are not that much educated...but you are good. The queen of my territory. No, the empress....  You heard about the new science?
+\n\ \n\
+50.Yes, that was amazing. I like that... but why can't we do it now. We are aging faster....
+\n\ \n\
+51.Don't be in a hurry. The professionals need to find someone who can make a big vessel.... We know we still have higher men born in those slums. You know travelling in space is quite a long journey. We may take decades. A strong ship is inevitable. God gives us wisdom. We should apply it.... We should create good problems and use others to solve them. There are still some geniuses born in the slums. Celebrities... ghetto kings and queens. We will triumph at the end. The great masters used this technique. Even our professional scientists now know it.
+\n\ \n\
+52.They seem to think much. We can always eat what we like in the big vessel. They should not make us fast. We should preserve enough food. He talked about a time device... I didn't  get that. God is good he gives us what we want. We don't need to ask. He cannot be understood by human mind... otherwise we have his image. Perhaps 'she' is a caring omnivorous creature. And perfect one.
+\n\ \n\
+53.This is the reason I told you we need to take even our daughter there. The teachers there are what a teacher should be. Our savior liked the idea of  finding him a wife there. A fair educated lady... not these stupid girls in our neighborhood. Even our daughter can get a good man like me there. Our son-in-law can even buy us an island. I can build a good bungalow there for us to reside during visits. I have good wealth in my offshore accounts. You know the men there are not mean. They love educated people. Life is a game... maybe of mathematics. You must be smart."
+
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="3dp" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

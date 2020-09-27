@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#000"
+            android:lineSpacingExtra="10dp"
+            android:scrollbars = "vertical"
+           android:text=" \n\ CHAPTER 1: \n\
+\n\
+1. A day comes when the light you know becomes darkness and vice versa. That was the message. When they read this, they were amused. This followed: Who told you? Just stick to your lane kid... don't think you are the first one. Remember we are not equal. We have seen many like you. What was shocking is the belief that there was no good or evil. All could be justified by the savior ignorance. How could he go to 'great schools' only to end up poor than 'we' thought. God remember him. He must be possessed...or he sold his soul for a good name as they do for 'food'. We thought he would pursue cosmology or medicine. We should make him tell us what came first....
+\n\ \n\
+2. If you can judge good and evil you are 'captive'. We should not be bothered knowing how it happened. What we need is the message. 'The end is the score'. We know the 'means' is your decision. Just reach the destination. There lies the fruits of your labour....
+\n\ \n\
+3. When he went to sleep, he had to fight all these thoughts... no, they were imaginations. He had known how to imagine. He could no longer fantasize. He could now entertain people. Thank you God he never suffered mental breakdown....
+\n\ \n\
+4. One day I will write a small book for those who are not educated and children. Just one. A summary of my work. No forewording, no acknowledgements, using a simple language, using 'formless' bodies... what is important is the message to the them. The book must  follow all the set rules that they don't know.
+\n\ \n\
+5. The title of the book will be: EVERYTHING DOES NOT EXIST. That's where the problems begin. I should have coined 'my language'. If they do not, what about all visible 'bodies'? It would be better if I said, they exist but not real. No, I will not lie. Even lying and truth are not there. Don't forget they're abstract. They¹. can't be proven. It must not be related to the message as they know. They are not learned but wise. The learned would have known.
+\n\ \n\
+6.The book will summarize these things:
+\n\
+(a) Faith gives you anything, in 'heaven' and on 'Earth'. The 'means' does not matter.
+\n\
+(b) The 'spirit' (being) can never die. It's immortal. It needs a 'body' to manifest. Some call it a 'chi' or a 'personal god'. It interconnects all humans.
+\n\
+(c) The 'God of Earth', Satan, who has everything for doubters. A wise evil 'being'.
+\n\
+(d) Every spirit 'born' on Earth is evil. Their hierarchy differs, matter of time (enlightenment).
+\n\
+(e) Teaching how to imagine... not thinking... not fantasizing. One of the 'hardest' things to do that's why it is not taught in our 'schools'. And the morality of laws....
+\n\
+(f) I am not in the grave. You waste your 'time' there. I am everywhere. If you want me...am there next to you.
+\n\
+(g) Reincarnation of spirits. This should be the major topic in the book...has been done many times; nicely and poorly. This 'carries' life until one attains 'full' enlightenment.
+\n\
+(h) You doubt in 'prayer' it's gone to 'God of Earth' who is kind.
+\n\
+(i) The above 'was' the mystic known by the dogmatists, priests, 'religious teachers', prominent dynasties, 'sojourners', magicians, outlaws, doctors, witches, soldiers, 'beheaders', professors, elders, governments, kingdoms, goats, prophets, gods, demons... name them all, that you fear in the name of respect. Good and bad as you have been taught.
+\n\
+(j) Ways of the earthly fathers should be honored. By who? You should specify that....
+\n\
+(k) The illusion and misinterpretation of paradise and hell and eternity. I will not explain that. It has been done a million times. Healthily and unhealthily.
+\n\
+(l) Leaving a smart world for ignorant machines and 'bodies'. I will emphasize on ignorance....
+\n\
+(m) The 'gospel' of money and reputation. Suffering. This is normal. Fine. Don't be left out in the episode!
+\n\
+(n) 'Parenting' changes perception. What develops is a 'parent' or a 'ghost'.
+\n\
+(o) Scientific representation of the soul. This has been known by some celebrated men.
+\n\
+(p) Teleporting much easier than accessing heaven. What is heaven?
+\n\
+(q) The lukewarm saviours and sojourners.
+\n\
+(r) The 'jealousy' God. This is known by the enlightened.
+\n\ \n\
+7. I should leave some topics because they will make the book big. The book is not much important as some classic movies and songs, parties and hanging out, don't forget some public donations and finally surrendering to the jealousy God....
+\n\ \n\
+8. I will not forget giving the story of this son of a stupid l old man who said: I was once there: I could not understand how one would rejoice at the stake. How would a man sit down, imagine and write scrolls, books or curve into a stone hoping humanity will benefit from the work? Maybe they loved solitude(we humans are social beings)...or they were outcasts. He said you can't 'enjoy life' on the planet. If you do, you exist. Maybe he just wanted attention where it should not be sought. In matters of 'life' and 'death' which exist not. And fear of monster death as we all know.
+\n\ \n\
+9. That's why some of your enlightened evil fathers have always worked hard to enlighten the earth. But what they left has been  misunderstood and used to eliminate bodies. They must have been stupid. They should have known better ways of living as you do. Sons fathers and mothers daughters now. Reversal of  the 'second' God. He did not mean teaching of life shortcuts. This should be there 'forever'. It is a good and evil improvement. Assembling and reassembling.
+\n\ \n\
+10. I will tell you how he became more stupid than his father. Maybe insanity got into him... we can always be human and call it madness. You know it's normal for some uneducated to become lunatic. They must have wasted their minds and 'time' in our precious institutions.
+\n\ \n\
+11. How he spoiled his good name by saying: Don't say that the 'devil' can't do that 'man'; he is your 'father' here on 'Earth'. Nothing can outmatch a good name. He didn't talk much about misinterpretation of heaven. Saying all  is one was enough. Maybe he must be colour blind, he could not distinguish black and white. They were not there for him.
+\n\ \n\
+12. How he talked about the laws with his 'friends'. He liked this topic of laws. It is all there is. The integral master and judge. I will write what he laughed at answering which is;  who's law for? He kept saying:  Well answered by my 'brother'... the 'master'. He has even made many others to speak of it... truthfully and ignorantly.  You all know the truth (the extremely good and nature of God)... that harlot on the 'golden streets'. No! The holy, learned, well-kempt human acting 'priest' on the stage.
+\n\ \n\
+13. He claimed he could not go to school to learn how to teach laws. Even the teachers of law don't understand them. They teach to earn a 'living'. We must live. How can we starve? We have brains. Common sense my sisters. Woe to them that lack....
+\n\ \n\
+14.I keep imagining what begot him. He also kept wondering why priests insisted on the old testament. It covered the ways of a small group. It is not all from the entire universe. It was for the initially most obedient evil spirits; who influenced even the neighbors. The children think they started there....
+\n\ \n\
+15.His stupid questions and answers: Why do you abandon your ways? The  master has redeemed us through his blood.... The redemption is not even known to you . It can only be so if you are above your evil fathers in enlightenment. How? Through God's 'grace' given as he 'likes' which makes you evade 'curses' if you leave their ways.
+\n\ \n\
+16. How 'earthly fathers' work to stop you leaving them by making you doubtful. The ancient sojourners knew it. He did not know whether the 'new' ones now know. The elephant doubt known by all. Poor and rich.
+\n\ \n\
+17.How they talk of their father in heaven out of ignorance. Who? How can we know them?  Don't forget to withdraw what you say boy. How can you withdraw what your tongue has said? I used a pencil to write it. You have an added advantage boy in that we are forgetful beings. We forgive and forget... but don't say we are like the silly warthogs. Watch your tongue. We have the key to heaven's golden streets and hell's furnace....
+\n\ \n\
+18.How he went to 'school' and finally had to say  what I have summarized below. He had much experience that he could do any work under the sun.
+\n\ \n\
+19.You don't have to go to school to be wise. We should not confuse knowledge and wisdom. Heavenly Father giveth wisdom to everyone. You only need enlightenment from the second God. This should not be done in schools. A school has lost its purpose now. They don't even support intuition, they want great thinkers. It's used for programming(maybe brainwashing would do) some God's creation; all out of ignorance. What you get are some brilliant educated pets you can control when you want. 'Happy' is you if you become their 'master'. These beautiful people should work to back up every theory. They are more than smart at this....
+\n\ \n\
+20.I always wanted to write a small book because the advanced don't have time for big books. I understand they need to party, listen to new good  songs now and then to be happy. I should not forget everything is new now. Even if I make it big I will cover nothing. Everything will happen to exist.
+\n\ \n\
+21.He also loved what one of those who used to be earthly said: all that man works for is vexation of spirit.  We don't need to follow the same path to be legends.You are not foolish doing so, you are just ignorant. Your earthly father made you so. Thank him for the bliss you have now.
+\n\ \n\
+22.What will be mine is that: God is peace. I will explain that you can buy happiness temporarily. What you can't buy is peace which is the nature of God. You can also lengthen your life? How?
+\n\ \n\
+23.Peace came to Earth in the name (your religion has it)...and the chosen group had to produce him. Why? Those who God had enlightened were prevented by their earthly Father(wicked nature) from incorrupting them but corrupted them  more.
+\n\ \n\
+24. Why write a book? At the end it will not be examined. It will be criticized 'cause it is a poor connection of words used wisely daily. It's one of those boring works. It would be a low standard book for the educated. Maybe a praise song for kings would do better.  It earns... wealth, respect and 'life'. The king is the judge from God. We should strive to protect our good names. Don't be ignorant.
+\n\ \n\
+25.This is the only thing to remember which is not controversial:  any work of art is divine."
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="3dp" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

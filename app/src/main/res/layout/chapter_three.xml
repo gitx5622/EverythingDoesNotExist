@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#000"
+            android:lineSpacingExtra="10dp"
+            android:scrollbars = "vertical"
+            android:text="\n\ CHAPTER 3: \n\
+
+WE CAN'T STAY ENCAGED LISTENING TO THE BRILLIANT AND BEAUTIFUL IDEAS. LET'S GO OUTSIDE. WHAT'S OUT THERE? THE OLD MAN HAD SEEN THE RICH MAN'S SON FLOWN HOME LAST WEEK. HIS CHI CONVINCES HIM THAT HIS SON SHOULD BE SOME DISTANCE FROM HOME NOW. AFTER SUNSET HE LIFTS HIS BODY TO THE TENT. I SHOULD CALL IT A HOUSE AS EVERYONE CALLS IT. AS HE LOOKS INTO HIS POT FOR SOMETHING TO EAT, ENTERS HIS SON. THE FATHER'S FACE GLIMMERS SEEING THE EDUCATED SON BACK AFTER ABOUT EIGHT YEARS.
+\n\ \n\
+54.My son... welcome home... I knew I was to see you before I go. I am much weaker now. The life has not been any better. The people have been waiting for you to 'save' them. You are 'rich'. You know the owners of the land are claiming it. Did you meet any on the way...and what did they say?
+\n\ \n\
+55. Am sorry father, for that which ruined your 'life'. I did receive your letter from our teacher a week ago. I was sad but she comforted me. She said everything happens for a reason. However, the letter was torn. The last part was not there. The dates were even altered. What I saw is that you lost everything. Do you know who caused the fire? I met my neighbor, the former classmate near the local school's gate but he didn't even look at me twice.
+\n\ \n\
+56. They are investigating(some machines)...we need to wait. Even the others are waiting. The court must have concrete evidence to give us justice. Even if it will be for a lifetime. We are not the first but I hope we are the last. What is shocking is that I sent the letter two years after you left and you got it after six years. How? But I know you will lead a 'good life'. You are educated now. Our ''family will thrive. What did the big smart books we heard about contain?
+\n\ \n\
+57.Am sorry to say this but...we were given those that were fit for us. Those  of low prices as we. The good and bad  thing is that they were the ones to be tested. We were told that they summarized everything under the sun. We were to master everything without questioning. Fail to master, you are uneducated. You will pay for it with your flesh until you die.
+\n\ \n\
+58. They had been prepared by honourable 'professors'. We had to respect their work. They are educated and beautiful gentlemen and ladies. They know what is fit and unfit for our generation and unknown generations to come. They are more than fathers and mothers. They have walked to other universes and back, they have lived many lives... courtesy of books. I know you heard some charismatic 'professors' when they were making the new laws which are now limiting 'em. They want to doctor them now to remove some stupid mistakes. We should make difficulties then solve men. Where will the pay come  sisters?
+\n\ \n\
+59.You mean you were denied access to some books and were not even allowed to read such in schools? The government had paid for your tuition. Was the tuition limited?
+\n\ \n\
+60.Yes. The professors make the government. We are always reminded that leadership comes from God. But we were given wisdom by God. Some say it's the free will. You know, they are for doctors. They have the high premiums and time needed to access them. They even have mature brains. The other time we were busy reading what should be tested. It was boring. Sometimes the professors told us to pretend we were reading for the slow learners to catch up. But our religious teacher assured us that we'll rest later after being programmed extensively. Education is life nowadays. It is no longer the key. We'll stay home while the uneducated work for us...before we improve our technology to make machines that can work for us and eliminate the unworthy creatures.
+\n\ \n\
+61.Who allowed you to access the books? That must be a good person...but the books seem misleading for such a young soul.
+\n\ \n\
+62.He is good. He is evil. He is not even there. He perhaps did it out of ignorance. I forget respecting the gender. All is the same. He looked like he was not a permanent inhabitant of the land. A wanderer of his own kind. He did not discriminate. I loved and hated his behavior. One time he was here in our land.
+\n\ \n\
+63.Was the person your 'religious' teacher?
+\n\ \n\
+64.No! She kept changing form. He was not a follower of any religion... only believed in God. Our religious teacher was once one of 'us'. She kept insisting that we follow the law as time draws near. She insisted on some key areas and laws in the holy book. Not all. She said the others should be be avoided. One may misinterpret them only for God to add you the plagues mentioned therein.
+\n\ \n\
+65. What shocked me is that she denounced her family. Her husband and a daughter had died in a plane crash. She was only left a big mansion. She said that these must have doubted God. She could never associate herself with them again. She left her mom and dad many years ago. How could she follow an archaic culture? She is advanced. Times have changed. Life is not bitter anymore. What bothered her is some ghosts visits to her house. She prayed to God until they left. She said some magicians in her neighborhood should have sent them.
+\n\ \n\
+66.Leave her alone. It's only a matter of time....No! Even the 'time' itself has no definition leave alone existence. It's an alien. They will be looking for us in the graves. Maybe they will 'resurrect' us to give them the  truth. We are kind. We'll be glad to help the beautiful people. We can't make them cry for long.... They are sons of light and even fear their grandparents who were renowned magicians and medicine men and women... right! Even death is more than troublesome to them. Nothingness. Oh...men of great faith. You know I hear them saying we must respect gender. Where they got that I don't know. No sex has ever been weaker. God created our father and mother and showed them the vast land together. I don't understand where the myth about gender came from.
+\n\ \n\
+67.Sorry you don't have the updates. I know our radio was burned at the same time as my mother and siblings. The newspapers that were usually read by one of our teachers during classes had that. It was a major topic almost everyday.
+\n\ \n\
+68.They are wiser than the elders. They have evolved. I know they have more than hidden interests in the topic. Do you remember the devil and his disciples? Did you find anything new in the books and from the teachers?
+\n\ \n\
+69. No! Nothing is new in the universe. What is called 'new' is  improvement. Basically rearranging the former. Getting shortcuts. Excellent and evil. You can read books or ask the 'being'. They might have been altered but they are good. What seems 'new' to them is the fancy 'language' (culture) by the 'digital' generation. You should stay here. You can't know what they talk about out there. They mix 'languages' and also make their own 'words' (ways) out of others. I think they'll need to make some dictionary for 'you'... but the words lose meaning now and then.... They say we should not question the times. They are advanced. Creativity should always be nurtured... they are not retrogressive or animals.
+\n\ \n\
+70. What will shock you is that they don't need to be advised by their parents who are building a smart world for them. Nobody should bother the other, they are imperfect and students of life. They have got smart phones. They can assist them in everything. They don't need to remember anything. The devices can give them anything they want in seconds. Good and evil. Why read many big books? They can get videos which summarize everything. Even life itself. You can get a program for your life. They say you should watch more than you read... what you watch sticks into your mind better.
+\n\ \n\
+71. What about God? Did the school corrupt you to leave our ways?
+\n\ \n\
+72. No. All books(writers), teachers, 'professors', everything... have one end: fate. Some said it meant accepting things as they are. You can improve, abide or leave them. Others said it's remaining at the same place you found your father and mother - change nothing. Hardships are the way to peace sons and daughters of light. I take the first... just giving in.
+\n\ \n\
+73. Son... follow the ways of our fathers. Whatever does not work for you leave it. Don't forget their wise sayings. Even if we make others we'll be 'wasting' ourselves. No one would bother listening to us. I have some peace you were not lost. I should and will not bury you.... I apologise to 'humanity' I never wrote a good book.  The life of hand to mouth didn't allow me but I have peace you will. Were the 'people' there caring?
+\n\ \n\
+74.Maybe. I should never judge them anymore. Fate. Ignorance. Some wisemen talk about the benefit of doubt. The outskirts of the land had what they call 'street children'...we are better than them we have something to call a house. They are 'feared'. They are said to be a bothering nation. They are increasing at an alarming rate. Others say they are idlers. Their origin is not known at all by humanity which is in ICU. Some God-sent aliens will save them. They are imperfect to help them.... Their faith to live is somehow amazing. God should bring calamities that will starve them to death. The 'rich' will have more land to make a smarter world....
+\n\ \n\
+75. The wonderful of all is that: Drop a smart phone, you are stupid. Every sane creature their mouths wide open... how kill such a useful device? Fall while walking in those good roads. Everyone amused while taking a photo of this confused thing. If you die you reduce congestion in those golden streets. You also bring an awaited 'nutritional' farewell ceremony. You should more often.
+\n\ \n\
+76.Some 'professors' taught how to question everything; even existence until we understand God; perhaps  through science. Even the laws. They said we should be careful to observe our life cycles. At the end we are not equal. The laws are signboards to morality. Some should live for the earth to keep spinning. There should be haves and have nots - that's an unbreakable law that can behead you. Some should give while others take.We should mainly question the barbaric ways of our fathers. The 'enlightened' and educated should take the lead. But remember you must pay for whatever a 'god' gives you. Have wisdom. Age is not just a number. Remember even the numbers do not exist.
+\n\ \n\
+77.I am rich now. Father, your god must have been educated by God. I have peace to know nothing 'exists'. I have learned how intuition works, better through your guidance. This should be the reason there were some celebrated higher men; who accessed the spiritual realm. When they know the truth they'll be free. The truth is a dinosaur. An alien in another cosmos. Our geniuses should work hard to get it back home.
+\n\ \n\
+78. How do we know whether a well is deep? We don't throw ourselves into it. There are many ways to do it even if it takes a lifetime. What does the ignorant do? The best and the worst thing is to be a teacher of law. You will pay for it! You are and must be a confusing judge. You make 'atheists' and equally many poor and few good believers. You're good and evil. Moral and immoral. Merely a confused child who is not able to substantiate what you say in the eyes of the monster science.
+\n\ \n\
+79. Both ''families'' kept talking and waiting, waiting and talking. I know for days, weeks, months, decades, centuries, millenniums...both hoping to have a bright future where the sky doesn't limit. Time to rest had come in two days for the poor man. We should not ask how and where. We should be carefree and careful. At the end he must rest in peace. I don't know whether they mourned. Why should they? He should have been 'rich' and having a good name to facilitate mourning. Maybe dogs and vampires shared his 'body'. Where will the grandchildren and great grandchildren place some fancy flowers? Even if 'they' buried him, those making a smarter world must have destroyed the grave....
+\n\ \n\
+80.The son of the poor man was tired after the long time of travel riding on a 'hired' bike. He threw himself into a beautiful bed at the corner of the tent beside his father. Then the uneducated can guess that the cycle continues 'forever'....
+        "
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="3dp" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
